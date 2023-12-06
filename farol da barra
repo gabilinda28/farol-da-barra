@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Farol da Barra - Salvador, Bahia</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #f1f1f1;
+        }
+
+        section {
+            margin: 20px 0;
+        }
+
+        h1, h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #666;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Farol da Barra</h1>
+        <p>Explore a beleza e história do Farol da Barra em Salvador, Bahia.</p>
+    </header>
+
+    <section>
+        <h2>Sobre o Farol</h2>
+        <img src="farol_barra.jpg" alt="Farol da Barra">
+        <p>O Farol da Barra é um dos ícones mais reconhecíveis de Salvador. Localizado na ponta da praia da Barra, este farol histórico oferece vistas deslumbrantes do Oceano Atlântico.</p>
+    </section>
+
+    <section>
+        <h2>História</h2>
+        <p>Construído no século XVII, o Farol da Barra tem uma rica história, testemunhando eventos importantes ao longo dos anos. Hoje, é um local de interesse turístico e cultural.</p>
+    </section>
+
+    <section>
+        <h2>Como Chegar</h2>
+        <p>O Farol da Barra está localizado no bairro da Barra, em Salvador. Você pode chegar facilmente de carro, ônibus ou até mesmo a pé, dependendo de onde você está hospedado na cidade.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Farol da Barra - Salvador, Bahia. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
